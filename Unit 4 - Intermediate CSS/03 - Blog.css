@@ -1,0 +1,42 @@
+body{
+	border:20px solid #bdc3c7;
+	max-width: 900px;
+	width: 80%;
+	margin: 0 auto;
+	font-family: Source Sans Pro;
+}
+
+.post{
+	margin-left: 4%;
+	margin-right: 4%;
+	margin-bottom: 30px;
+}
+
+.date{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.3rem;
+}
+
+p{
+	margin-left: 10%;
+}
+
+h2{
+	color: #2c3e50;
+}
+p:nth-of-type(1){ /*could have also picked quote, but too late haha*/
+	border-left: 6px solid grey;
+	padding-left: 3%;
+}
+
+hr{
+	color: grey;
+}
+
+/*date #3498db
+h2 color #2c3e50
+source sans pro
+the block quote is just a left border
+date is in all caps
+there's an hr*/

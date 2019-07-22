@@ -1,0 +1,12 @@
+
+li{
+	border: 12px solid green;
+}
+
+#Finish {
+	background: yellow;
+}
+
+.Done {
+	text-decoration: line-through;
+}

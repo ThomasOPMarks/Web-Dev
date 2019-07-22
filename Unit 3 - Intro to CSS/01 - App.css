@@ -1,0 +1,26 @@
+h1 {
+	color: red;
+	background: rgb(12,12,34);
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px dashed purple;
+}
+
+li {
+	color: #0000FF;
+}
+
+h4 {
+	text-align: center;
+	color: #000000;
+	background: #908012;
+}
+
+body {
+	background: pink;
+/*	background: url(https://4.imimg.com/data4/IR/IJ/MY-3890861/pine-wood-500x500.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
